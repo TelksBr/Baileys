@@ -8,5 +8,6 @@
     "declarationMap": true,
     "sourceMap": true
   },
+  "include": ["src/**/*.ts", "WAProto/**/*.js", "WAProto/**/*.d.ts"],
   "exclude": ["node_modules","src/__tests__"]
 }

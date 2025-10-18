@@ -34,6 +34,6 @@
     "allowJs": false,
     "checkJs": false,
   },
-  "include": ["src/**/*.ts"],
+  "include": ["src/**/*.ts", "WAProto/**/*.js", "WAProto/**/*.d.ts"],
   "exclude": ["node_modules"]
 }
